@@ -7,6 +7,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.clickable {
+  cursor: pointer;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.card-image-div {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.card-image {
+  height: 104px;
+  width: 140px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
